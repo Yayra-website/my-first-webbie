@@ -1,0 +1,29 @@
+#welcome-message{
+    color:red;
+ }
+    
+      .intentionality{
+      font-size:18px;
+      color:blue;
+      font-style: oblique;
+       text-align:;left
+    }
+    .resilience{
+font-size: 17px;
+color:red;
+text-align:center;
+font-family:georgia;
+font-style:italic;}
+
+    body{
+         background-color: pink; }
+    .navbar{
+display: flex;
+justify-content: center;
+align-items: center;
+background-color:bisque;
+padding: 10px;
+gap: 10px;
+    }
+
+    
